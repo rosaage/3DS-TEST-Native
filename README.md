@@ -1,5 +1,7 @@
 # 3DS TEST Native
 
+![Screenshot](screenshot.png)
+
 A native alternative to the original Lua tester, built with libctru, citro2d and citro3d. It starts directly on the test screen and needs no Lua engine, game directory, or legacy sf2d libraries.
 
 - Live X/Y values and position plots for the Circle Pad and either the built-in C-stick or a Circle Pad Pro.
